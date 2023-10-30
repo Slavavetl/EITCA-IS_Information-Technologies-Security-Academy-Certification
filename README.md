@@ -21,16 +21,17 @@ The individual EITC programmes may also be ordered separately, without enrollmen
 * EITC/IS/CCF: Classical Cryptography Fundamentals - ca. 15 hours
 * EITC/IS/ACC: Advanced Classical Cryptography - ca. 15 hours
 * EITC/QI/QIF: Quantum Information Fundamentals - ca. 15 hours
-EITC/IS/QCF: Quantum Cryptography Fundamentals - ca. 15 hours
-EITC/IS/CNF: Computer Networking Fundamentals - ca. 15 hours
-EITC/IS/CSSF: Computer Systems Security Fundamentals - ca. 15 hours
-EITC/IS/ACSS: Advanced Computer Systems Security - ca. 15 hours
-EITC/IS/WSA: Windows Server Administration - ca. 15 hours
-EITC/IS/LSA: Linux System Administration - ca. 15 hours
-EITC/IS/WASF: Web Applications Security Fundamentals - ca. 15 hours
-EITC/IS/WAPT: Web Applications Penetration Testing - ca. 15 hours
-EITCA/IS Information Security Academy is an advanced training and certification programme with extensive didactic content, equivalent to international post-graduate studies combined with the industry-level training, and surpassing standard graphics training offers in various fields of computer graphics available on the market. The content of the EITCA Academy certification programme is specified and standardized by the European Information Technologies Certification Institute EITCI in Brussels. 
+* EITC/IS/QCF: Quantum Cryptography Fundamentals - ca. 15 hours
+* EITC/IS/CNF: Computer Networking Fundamentals - ca. 15 hours
+* EITC/IS/CSSF: Computer Systems Security Fundamentals - ca. 15 hours
+* EITC/IS/ACSS: Advanced Computer Systems Security - ca. 15 hours
+* EITC/IS/WSA: Windows Server Administration - ca. 15 hours
+* EITC/IS/LSA: Linux System Administration - ca. 15 hours
+* EITC/IS/WASF: Web Applications Security Fundamentals - ca. 15 hours
+* EITC/IS/WAPT: Web Applications Penetration Testing - ca. 15 hours
+* EITCA/IS Information Security Academy is an advanced training and certification programme with extensive didactic content, equivalent to international post-graduate studies combined with the industry-level training, and surpassing standard graphics training offers in various fields of computer graphics available on the market. The content of the EITCA Academy certification programme is specified and standardized by the European Information Technologies Certification Institute EITCI in Brussels. 
 The link to the Program: https://eitca.org/eitca-is-information-security-academy/
+
 [I'm an inline-style link](https://www.google.com)
 
 https://www.eitci.org/certificatesupplement?id=EITCA/IS/FXR23004672&t=wbKLnX30xpL7j7nr 
