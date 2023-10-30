@@ -17,10 +17,10 @@ The list of EITC certifications included in the complete EITCA/IS Information Se
 
 The individual EITC programmes may also be ordered separately, without enrollment in a full EITCA/IS Academy.
 
-EITC/IS/CCTF: Computational Complexity Theory Fundamentals - ca. 15 hours
-EITC/IS/CCF: Classical Cryptography Fundamentals - ca. 15 hours
-EITC/IS/ACC: Advanced Classical Cryptography - ca. 15 hours
-EITC/QI/QIF: Quantum Information Fundamentals - ca. 15 hours
+* EITC/IS/CCTF: Computational Complexity Theory Fundamentals - ca. 15 hours
+* EITC/IS/CCF: Classical Cryptography Fundamentals - ca. 15 hours
+* EITC/IS/ACC: Advanced Classical Cryptography - ca. 15 hours
+* EITC/QI/QIF: Quantum Information Fundamentals - ca. 15 hours
 EITC/IS/QCF: Quantum Cryptography Fundamentals - ca. 15 hours
 EITC/IS/CNF: Computer Networking Fundamentals - ca. 15 hours
 EITC/IS/CSSF: Computer Systems Security Fundamentals - ca. 15 hours
