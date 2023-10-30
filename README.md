@@ -1,7 +1,7 @@
 # EITCA-IS_Information-Technologies-Security-Academy-Certification
 ------------------------------------------------------------------
 
-About the EITCA Academy:
+__About the EITCA Academy:__
 
 The European Information Technologies Certification Academy enables access to the European IT Certification standard for digital skills and IT competencies attestation. It is available online from Brussels, EU under a governance of the European Information Technologies Certification Institute (EITCI), a not-for-profit accreditation and certification authority for the programme that develops and disseminates it internationally.
 
